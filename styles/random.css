@@ -1,0 +1,36 @@
+#num1{
+    display: inline;
+}
+
+#num2{
+    display: inline;
+}
+
+body{
+    margin: 300px 35%;
+}
+
+button{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
+
+p{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+input{
+    width: 60px;
+    height: 40px;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
