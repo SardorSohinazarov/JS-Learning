@@ -1,6 +1,7 @@
 document.getElementById("num1").innerHTML = Math.floor(Math.random() * 10);
 document.getElementById("num2").innerHTML = Math.floor(Math.random() * 10);
 var myArray = ["+", "-", "*", "/"];
+
 var randomElement = myArray[Math.floor(Math.random() * myArray.length)];
 document.getElementById("operator").innerHTML = randomElement;
 
